@@ -73,14 +73,16 @@ Here are a few examples of how to use the implementation:
 - **Random Surfer Model Example:**
 
    ```bash
-   python pagerank.py --method random-surfer --input example_links.txt
+   python pagerank.py corpus0
    ```
 
 - **Iterative PageRank Algorithm Example:**
 
    ```bash
-   python pagerank.py --method iterative --input example_links.txt
+   python pagerank.py corpus0
    ```
+
+*(Implementation of both is coded to show the results together at each execution of pagerank.py)*
 
 ## Contributing
 
