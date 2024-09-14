@@ -1,3 +1,2 @@
 # page_rank
 
-initial
