@@ -1,4 +1,4 @@
-# page_rank
+# Relevance Engine
 
 This repository contains an AI implementation for calculating PageRank using two distinct methods:
 
