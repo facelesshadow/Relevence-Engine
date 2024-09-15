@@ -39,7 +39,7 @@ The Random Surfer Model is a probabilistic approach to PageRank. It assumes that
 
 The PageRank \( PR \) of a page \( i \) can be expressed as:
 
-\[ PR(i) = \frac{1-d}{N} + d \left( \sum_{j \in M(i)} \frac{PR(j)}{L(j)} \right) \]
+$$PR(i) = \frac{1-d}{N} + d \left( \sum_{j \in M(i)} \frac{PR(j)}{L(j)} \right)$$
 
 Where:
 - \( d \) is the damping factor (usually set to 0.85).
