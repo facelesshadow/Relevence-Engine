@@ -1,5 +1,7 @@
 # Relevance Engine
 
+The sheer volume of online content makes it hard to find relevant information through search engines like Google and Bing, leading to frustration and wasted time. This project addresses this issue by simulating the AI-driven algorithms used by these search giants, demonstrating how to intelligently curate and prioritize web content to improve search result accuracy and user experience.
+
 This repository contains an AI implementation for calculating PageRank using two distinct methods:
 
 1. **Random Surfer Model**
